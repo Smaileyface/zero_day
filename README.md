@@ -1,2 +1,1 @@
-# This is a vagrant repo test
-- check this out
+This file is mandatory in projects
